@@ -1,11 +1,12 @@
 import React from 'react'
-import PageOne from './pages/PageOne'
+import Api from './pages/Api'
 
 const App = () => {
 
   return (
     <>
-      <PageOne />
+      {/* <PageOne /> */}
+      <Api />
     </>
   )
 }
